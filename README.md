@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamirRozenfeld
 - 👀 I’m interested in finding a junior Software Engineering Job 
 - 🌱 I’m currently learning Software engineer
-- 💞️ I’m looking to collaborate on open sources projects
+- 💞️ I’m looking to collaborate on open sources projects and learning software
 - 📫 How to reach me tamirrozenfeld1@gmail.com
 
 <!---
